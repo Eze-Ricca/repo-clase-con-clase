@@ -68,5 +68,6 @@ function testClaseEdificio() {
 function main() {
   testClaseEdificio();
   console.log("Otro cambio");
+  console.log("hice un cambio desde github simulando que soy otra persona")
 }
 main();
